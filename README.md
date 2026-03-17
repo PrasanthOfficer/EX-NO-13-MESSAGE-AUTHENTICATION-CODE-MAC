@@ -77,7 +77,6 @@ int main() {
 
 ```
 ## Output:
-![alt text](../image_2.png)
-
+![alt text](../pic1.png)
 ## Result:
 The program is executed successfully.
